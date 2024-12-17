@@ -41,7 +41,8 @@ const Home = () => {
 
           <View style={styles.gridItem}>
             <MaterialIcons name="star" size={40} color="black" />
-            <Text>Prayer Time</Text>
+
+            <Link href="/tabs">Tab Layout</Link>
           </View>
 
           <View style={styles.gridItem}>
